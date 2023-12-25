@@ -1,5 +1,7 @@
 # Omni Plugins
 
-This repository contains my custom Omni Automation plugins for [Omni](https://www.omnigroup.com) applications.
+This repository contains my plugins for [Omni](https://www.omnigroup.com) applications, built using Omni Automation.
 
-For future reference: [here's the perfect tutorial](https://omni-automation.com/plugins/bundle.html).
+[OmniFocus](https://www.omnigroup.com/omnifocus) is my task management tool of choice. I use it all day, every day, and have been doing so for over a decade.
+
+For future reference: [here's the perfect tutorial for creating plugins](https://omni-automation.com/plugins/bundle.html).
