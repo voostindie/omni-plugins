@@ -1,0 +1,30 @@
+{
+	"defaultLocale": "en",
+	"identifier": "nl.ulso.omni.focus",
+	"author": "Vincent Oostindie",
+	"description": "Quickly switch focus between groups of folders and projects",
+	"version": "1.0",
+	"actions": [
+		{
+			"identifier": "work",
+			"image": "briefcase.circle.fill"
+		},
+		{
+			"identifier": "off_the_clock",
+			"image": "clock.circle.fill"
+		},
+		{
+			"identifier": "volleyball",
+			"image": "volleyball.circle.fill"
+		},
+		{
+			"identifier": "personal",
+			"image": "person.circle.fill"
+		},
+	],
+	"libraries": [
+		{
+			"identifier": "focus"
+		}
+	]
+}
