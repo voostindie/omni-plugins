@@ -2,7 +2,7 @@
 	const action = new PlugIn.Action(async function(selection, sender) {
 		this.focus.switchFocus(
 			folderNamed("🏐 TweeVV"),
-			folderNamed("👨🏻‍💻 Persoonlijk"),
+			folderNamed("👨🏻‍💻 Personal"),
 			projectNamed("🤖 Routine")
 		);
 	});
